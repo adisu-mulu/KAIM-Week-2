@@ -1,2 +1,4 @@
 data
 .venv
+graphs
+aggregated_per_user_data.csv
